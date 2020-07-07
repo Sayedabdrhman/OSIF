@@ -6,7 +6,7 @@
                                           S A Y E D
                             [open source information Kali Lunix]
 ```
-Sayed is an accurate facebook account information gathering, all sensitive information can be
+Sayed Abdrhman
 
 
 # [ Installation ]
