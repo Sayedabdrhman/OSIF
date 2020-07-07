@@ -13,8 +13,8 @@ Sayed is an accurate facebook account information gathering, all sensitive infor
 ```
 $ pkg update upgrade
 $ pkg install git python2
-$ git clone 
-$ cd Sayedhttps://github.com/Sayedabdrhman/Sayed
+$ git clone https://github.com/Sayedabdrhman/Sayed
+$ cd Sayed 
 
 # [ Setup ]
 ```
