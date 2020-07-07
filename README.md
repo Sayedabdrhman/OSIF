@@ -2,24 +2,19 @@
 # this project will be stopped for some time to come.
 
 ```
-                                          _     _
-                                        o' \.=./ `o
-                                           (o o)          
-                                       ooO--(_)--Ooo
-                                       
-                                          O S I F
-                            [open source information facebook]
+                                          
+                                          S A Y E D
+                            [open source information Kali Lunix]
 ```
-OSIF is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
-
+Sayed is an accurate facebook account information gathering, all sensitive information can be
 
 
 # [ Installation ]
 ```
 $ pkg update upgrade
 $ pkg install git python2
-$ git clone https://github.com/ciku370/OSIF
-$ cd OSIF
+$ git clone https://Sayedabdrhman/Sayed
+$ cd Sayed
 ```
 
 # [ Setup ]
